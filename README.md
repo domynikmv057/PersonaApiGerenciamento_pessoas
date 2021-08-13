@@ -32,23 +32,23 @@ LINKEDIN : https://www.linkedin.com/in/domynik-marcone-158b3315b
 
 
 <div align="center">
-    <p>* Spring Boot que foi utilizado no projetp</p>
+    <p>* Spring Boot que foi utilizado no projeto</p>
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/1.png" width="300" >
-    <p>* Spring Boot que foi utilizado no projetp</p>
+    <p>* Metodos (Post, Get, GetId, Put, Delet)</p>
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/2.png" width="300" >
-    <p>* Spring Boot que foi utilizado no projetp</p>
+    <p>* Metodo Post no Postman em funcionamento</p>
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/3.png" width="300" >
-    <p>* Spring Boot que foi utilizado no projetp</p>
+    <p>* Metodo Put no Postman em funcionamento</p>
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/4.png" width="300" >
-    <p>* Spring Boot que foi utilizado no projetp</p>
+    <p>* Metodo Get no Postman em funcionamento</p>
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/5.png" width="300" >
-    <p>* Spring Boot que foi utilizado no projetp</p>
+    <p>* Metodo Get By Id no Postman em funcionamento/p>
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/6.png" width="300" >
-    <p>* Spring Boot que foi utilizado no projetp</p>
+    <p>* Metodo Delete no Postman em funcionamento</p>
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/7.png" width="300" >
-    <p>* Spring Boot que foi utilizado no projetp</p>
+    <p>* Algumas atividade realizadas no Heroku durante o projeto</p>
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/8.png" width="300" >
-    <p>* Spring Boot que foi utilizado no projetp</p>
+    <p>* Select all Person no banco H2</p>
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/9.png" width="300" >
 </div>
 
