@@ -42,7 +42,7 @@ LINKEDIN : https://www.linkedin.com/in/domynik-marcone-158b3315b
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/4.png" width="300" >
     <p>* Metodo Get no Postman em funcionamento</p>
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/5.png" width="300" >
-    <p>* Metodo Get By Id no Postman em funcionamento/p>
+    <p>* Metodo Get By Id no Postman em funcionamento </p>
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/6.png" width="300" >
     <p>* Metodo Delete no Postman em funcionamento</p>
     <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/7.png" width="300" >
