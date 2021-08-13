@@ -27,17 +27,16 @@ public class PersonService {
         this.personRepository = personRepository;
     }
 
+    //CRIAR PESSOA
     public MessageResponseDTO createPerson(PersonDTO personDTO) {
         Person personToSave = personMapper.toModel(personDTO);
 
         Person savedPerson = personRepository.save(personToSave);
-        return MessageResponseDTO
-                .builder()
-                .message("Created person with ID" + savedPerson.getId())
-                .build();
+        return createMessageResponse(savedPerson.getId(), "Created person with ID");
 
     }
 
+    //LISTAR TODAS AS PESSOAS
     public List<PersonDTO> listAll() {
         List<Person> allPeople = personRepository.findAll();
         return allPeople.stream()
@@ -45,6 +44,7 @@ public class PersonService {
                 .collect(Collectors.toList());
     }
 
+    //ACHAR POR ID
     public PersonDTO findById(Long id) throws PersonNotFoundException {
         Person person = verifyIfExists(id);
 
@@ -52,14 +52,36 @@ public class PersonService {
 
     }
 
+    //DELETAR POR ID
     public void delete(Long id) throws PersonNotFoundException {
         verifyIfExists(id);
         personRepository.deleteById(id);
     }
 
+    //ATUALIZAR POR ID
+    public MessageResponseDTO updateById(Long id, PersonDTO personDTO) throws PersonNotFoundException {
+        verifyIfExists(id);
+
+        Person personToUpdate = personMapper.toModel(personDTO);
+
+        Person updatePerson = personRepository.save(personToUpdate);
+        return createMessageResponse(updatePerson.getId(), "Update person with ID");
+
+    }
+
+
+    //METODO DE MENSSAGEN
+    private MessageResponseDTO createMessageResponse(Long id, String message) {
+        return MessageResponseDTO
+                .builder()
+                .message(message + id)
+                .build();
+    }
+    //VERIFICA SE O ID ESTA PRESENTE
     private Person verifyIfExists(Long id) throws PersonNotFoundException {
         return personRepository.findById(id)
                 .orElseThrow(() -> new PersonNotFoundException(id));
     }
+
 
 }
