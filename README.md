@@ -32,7 +32,7 @@ LINKEDIN : https://www.linkedin.com/in/domynik-marcone-158b3315b
 
 
 <p align="center">
-  <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/tree/main/repository_Readme/1" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="PersonaApiGerenciamento_pessoas/repository_Readme/1.png" width="350" title="hover text">
+  <img src="PersonaApiGerenciamento_pessoas/repository_Readme/2.png" width="350" alt="accessibility text">
 </p>
 
