@@ -32,7 +32,7 @@ LINKEDIN : https://www.linkedin.com/in/domynik-marcone-158b3315b
 
 
 <p>Spring Boot, Usado no projeto:</p>
- - ![image](https://user-images.githubusercontent.com/72674910/129405021-dca04cc6-5928-4c5d-af62-d5764bcee64d.png)
+ - https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/1.png
 
 
 
