@@ -20,17 +20,11 @@ LINKEDIN : https://www.linkedin.com/in/domynik-marcone-158b3315b
     Durante todo o projeto foi desenvolvido e abordado os seguintes tópicos:</h5>
 
 <ul>
-   <li>Setup inicial de um projeto com o Spring Boot Initializer.🍃</li><br> 
-
-    <li>Criação de modelo de dados para mapeamento de entidades em bancos de dados. 🎲</li><br> 
-
-    <li>Desenvolvimento de operações de gerenciamento de usuários (Cadastro, Leitura, Atualização e remoção de pessoas em um sistema.) C.R.U.D </li><br> 
-
-    <li>Relação de cada uma das operações acima com o padrão arquitetural REST, e a explicação de cada um dos conceitos REST envolvidos durante o desenvolvimento do projeto. </li><br> 
-
-    <li>Desenvolvimento de testes unitários para validação das funcionalidades. </li><br> 
-
-    <li>Implantação do sistema na nuvem através do Heroku. ☁☁</li><br></ul> 
+   <li>Setup inicial de um projeto com o Spring Boot Initializer.🍃</li><br>
+   <li>Criação de modelo de dados para mapeamento de entidades em bancos de dados. 🎲</li><br>
+   <li>Desenvolvimento de operações de gerenciamento de usuários (Cadastro, Leitura, Atualização e remoção de pessoas em um sistema.) C.R.U.D </li><br>
+   <li>Relação de cada uma das operações acima com o padrão arquitetural REST, e a explicação de cada um dos conceitos REST envolvidos durante o desenvolvimento do projeto</li>    <br><li>Desenvolvimento de testes unitários para validação das funcionalidades.</li><br> 
+   <li>Implantação do sistema na nuvem através do Heroku. ☁☁</li><br></ul> 
 
 <hr>
 <h4> Imagens do projeto: </h4>
