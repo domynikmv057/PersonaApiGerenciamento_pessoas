@@ -31,8 +31,8 @@ LINKEDIN : https://www.linkedin.com/in/domynik-marcone-158b3315b
 <h4> Imagens do projeto: </h4>
 
 
-<p>Spring Boot, Usado no projeto: ![image](https://user-images.githubusercontent.com/72674910/129404822-dc937a73-7577-4075-8350-8af501a19619.png)
-</p>
+<p>Spring Boot, Usado no projeto:</p>
+ ![image](https://user-images.githubusercontent.com/72674910/129404822-dc937a73-7577-4075-8350-8af501a19619.png)
 
 
 
