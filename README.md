@@ -30,11 +30,9 @@ LINKEDIN : https://www.linkedin.com/in/domynik-marcone-158b3315b
 <hr>
 <h4> Imagens do projeto: </h4>
 
-![image](https://user-images.githubusercontent.com/72674910/129404580-15d4c7de-8d5d-48b9-8662-89b1260ae562.png)
 
-https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/2.png?raw=true
-
-
+<p>Spring Boot, Usado no projeto: ![image](https://user-images.githubusercontent.com/72674910/129404822-dc937a73-7577-4075-8350-8af501a19619.png)
+</p>
 
 
 
