@@ -33,14 +33,22 @@ LINKEDIN : https://www.linkedin.com/in/domynik-marcone-158b3315b
 
 <div align="center">
     <p>* Spring Boot que foi utilizado no projetp</p>
-    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/1.png" width="350" >
-    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/2.png" width="350" >
-    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/3.png" width="350" >
-    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/4.png" width="350" >
-    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/5.png" width="350" >
-    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/6.png" width="350" >
-    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/7.png" width="350" >
-    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/8.png" width="350" >
-    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/9.png" width="350" >
+    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/1.png" width="300" >
+    <p>* Spring Boot que foi utilizado no projetp</p>
+    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/2.png" width="300" >
+    <p>* Spring Boot que foi utilizado no projetp</p>
+    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/3.png" width="300" >
+    <p>* Spring Boot que foi utilizado no projetp</p>
+    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/4.png" width="300" >
+    <p>* Spring Boot que foi utilizado no projetp</p>
+    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/5.png" width="300" >
+    <p>* Spring Boot que foi utilizado no projetp</p>
+    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/6.png" width="300" >
+    <p>* Spring Boot que foi utilizado no projetp</p>
+    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/7.png" width="300" >
+    <p>* Spring Boot que foi utilizado no projetp</p>
+    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/8.png" width="300" >
+    <p>* Spring Boot que foi utilizado no projetp</p>
+    <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/9.png" width="300" >
 </div>
 
