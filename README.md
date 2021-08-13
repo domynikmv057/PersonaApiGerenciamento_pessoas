@@ -32,7 +32,7 @@ LINKEDIN : https://www.linkedin.com/in/domynik-marcone-158b3315b
 
 
 <p>Spring Boot, Usado no projeto:</p>
- ![image](https://user-images.githubusercontent.com/72674910/129404822-dc937a73-7577-4075-8350-8af501a19619.png)
+ ![image](https://user-images.githubusercontent.com/72674910/129404889-a47368c4-ae1c-43b2-ab89-aa311104ff6c.png)
 
 
 
