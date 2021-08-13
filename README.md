@@ -31,8 +31,7 @@ LINKEDIN : https://www.linkedin.com/in/domynik-marcone-158b3315b
 <h4> Imagens do projeto: </h4>
 
 
-<p align="center">
-  <img src="PersonaApiGerenciamento_pessoas/repository_Readme/1.png" width="350" title="hover text">
-  <img src="PersonaApiGerenciamento_pessoas/repository_Readme/2.png" width="350" alt="accessibility text">
-</p>
+<div align="center">
+  <img src="https://github.com/domynikmv057/PersonaApiGerenciamento_pessoas/blob/main/repository_Readme/1.png" width="350" >
+</div>
 
